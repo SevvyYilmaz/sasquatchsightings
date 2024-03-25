@@ -1,4 +1,4 @@
-# sasquatchsightings
+# Sasquatchsightings
 
 Description: 
 This project is a web application developed using Python, HTML, MySQL database, and Flask framework. It implements functionalities such as user authentication (login and registration), validations, displaying information about Sasquatch sightings, CRUD operations, and more.
