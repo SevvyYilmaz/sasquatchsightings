@@ -20,3 +20,13 @@ Dashboard: Redirects users to a dashboard after saving data, providing an overvi
 
 
 The ERD represents the relationships between different entities in the database, including users, Sasquatch sightings, and other relevant data.
+
+[packages]
+flask = "*"
+pymysql = "*"
+flask-bcrypt = "*"
+
+
+[requires]
+python_version = "3.11"
+
